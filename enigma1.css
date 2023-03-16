@@ -1,0 +1,58 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-gratis/interior-de-uma-sala-antiga-com-holofote_1048-13648.jpg?w=740&t=st=1678835321~exp=1678835921~hmac=8070debda546338995db90bbb53d0ce3146142dbd62a29218a6671364e994eb1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+p {
+    color: aqua;
+    font: normal 12pt Arial;
+    text-align: center;
+}
+header {
+    color: white;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 40px;
+    
+}
+#malsabeele {
+    font: normal 15pt Arial;
+    color: red;
+}
+img#Coxony {
+    
+}
+ #Morpi {
+    position: relative;
+    left: 1100px;
+    display: flex;
+ }
+ #Aibhill {
+    display: flex;
+    margin-top: 50px;
+    height: 150px;
+ }
+#igreja {
+   position: relative;
+    margin-top: 20px;
+    margin-left: 1030px;
+    width: 250px;
+    
+}
+audio{
+    visibility: hidden;
+}
+button {
+   position: relative;
+    height: 50px;
+    width: 150px;
+    top: 950px;
+    right: 460px;
+    border-radius: 8px;
+    background-color: blue;
+
+}
+
+
